@@ -10,6 +10,7 @@ namespace Advent_Of_Code_2019
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(Day01Problem01.SolveProblemOne());
         }
     }
 }
