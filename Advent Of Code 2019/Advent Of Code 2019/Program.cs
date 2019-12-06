@@ -14,7 +14,9 @@ namespace Advent_Of_Code_2019
         static void Main(string[] args)
         {
             Console.WriteLine(DayOne.SolveDay1Part1());
-            Console.WriteLine(DayOne.SolveDay2Part2());
+            Console.WriteLine(DayOne.SolveDay1Part2());
+
+            Console.WriteLine(DayTwo.SolveDayTwoPartOne());
         }
 
       
